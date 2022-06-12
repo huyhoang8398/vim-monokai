@@ -6,9 +6,9 @@ Refined monokai color scheme for vim.
 Install
 -------
 
-### [vim-plug](https://github.com/junegunn/vim-plug)
+### [vim-plug](https://github.com/huyhoang8398/vim-plug)
 
-    Plug 'crusoexia/vim-monokai'
+    Plug 'huyhoang8398/vim-monokai'
 
 ### Manually
 
@@ -76,6 +76,4 @@ Below plugins would give you better experience when using *vim-monokai*:
 Screenshots
 -----------
 
-![typescript](screenshots/typescript.png)
-
-![html](screenshots/html.png)
+![c](screenshots/c.png)
